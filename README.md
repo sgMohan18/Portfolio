@@ -47,7 +47,7 @@
 
 **Mohanakumar Sugavasan**  
 💼 Aspiring Java Full Stack Developer  
-📧 [Email Me](mailto:youremail@example.com)  
+📧 [Email Me](mailto:sgmohan1820@gmail.com)  
 🌐 [LinkedIn](http://www.linkedin.com/in/mohanakumar18)  
 🐙 [GitHub](https://github.com/sgMohan18)  
 
