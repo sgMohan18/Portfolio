@@ -1,53 +1,61 @@
-# 🌐 Personal Portfolio - Mohanakumar Sugavasan
+# 🌐 Mohanakumar Sugavasan – Personal Portfolio  
 
-![Portfolio Badge](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=google-chrome)  
-_A clean, modern personal portfolio built using **HTML, CSS, and JavaScript** with a responsive design._
+![Portfolio Badge](https://img.shields.io/badge/Portfolio-Live-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)  
+![GitHub Repo Size](https://img.shields.io/github/repo-size/sgMohan18/Portfolio?style=for-the-badge&color=6C63FF)  
+![Last Commit](https://img.shields.io/github/last-commit/sgMohan18/Portfolio?style=for-the-badge&color=purple)  
 
----
-
-## 🚀 Live Demo
-🔗 [View Portfolio](https://navi-bus-7d6bb.web.app/) <!-- Replace with your deployed link -->
+> ⚡ A clean and modern **personal portfolio website** built with **HTML, CSS & JavaScript**, showcasing my journey from **Electronics & Communication Engineer** to **Aspiring Full Stack Developer**.  
 
 ---
 
-## ✨ Features
-- 📱 **Responsive Design** – Works seamlessly on desktop & mobile.  
-- 🎨 **Modern White & Mauve Theme** – Clean & professional look.  
-- 📂 **Projects Section** – Carousel to showcase your work.  
-- 📝 **About Me** – A quick introduction and background.  
-- 📬 **Contact Form** – Easy way for recruiters or clients to reach you.  
-- 🔍 **Search Bar** – Navigate to different sections quickly.  
-- 🍔 **Hamburger Menu** – Smooth mobile navigation with right-to-left animation.  
+## 🚀 Live Demo  
+🔗 [**View Portfolio**](https://navi-bus-7d6bb.web.app/)  
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Features  
+✅ **Responsive Design** – Perfectly adapts to mobile, tablet & desktop.  
+🎨 **Elegant White & Mauve Theme** – Minimal yet professional.  
+📂 **Projects Showcase** – Highlighting key works with a smooth carousel.  
+📝 **About Me** – Short intro & professional background.  
+📬 **Contact Form** – Reach out directly from the site.  
+🔍 **Search Functionality** – Quickly jump to sections by keyword.  
+🍔 **Hamburger Menu** – Sleek mobile navigation with slide-in effect.  
+🌙 **Dark/Light Mode** – Toggle for personalized viewing experience.  
+
+---
+
+## 🛠️ Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  
-- **Styling:** Custom CSS (white & mauve theme)  
-- **Version Control:** Git, GitHub  
+- **Styling:** Custom CSS (White & Mauve theme, Dark/Light toggle)  
+- **Deployment:** Firebase Hosting  
+- **Version Control:** Git & GitHub  
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots  
 
-### 🏠 Landing Page
-![Landing Page](https://via.placeholder.com/800x400?text=Landing+Page+Screenshot)
+### 🏠 Landing Page  
+![Landing Page](assets/landingPage.png)  
 
-### 📂 Projects Section
-![Projects](https://via.placeholder.com/800x400?text=Projects+Carousel+Screenshot)
+### 📂 Projects Section  
+![Projects](assets/ProjectsPage.png)  
 
 ---
-##👨‍💻 Author
 
-Mohanakumar Sugavasan
+## 👨‍💻 Author  
 
-💼 Aspiring Java Full Stack Developer
-📧 Email Me
-🌐 LinkedIn
-🐙 GitHub
+**Mohanakumar Sugavasan**  
+💼 Aspiring Java Full Stack Developer  
+📧 [Email Me](mailto:youremail@example.com)  
+🌐 [LinkedIn](http://www.linkedin.com/in/mohanakumar18)  
+🐙 [GitHub](https://github.com/sgMohan18)  
 
-## 📌 Setup Instructions
+---
 
-Clone the repo:
+## 📌 Setup Instructions  
+
+Clone the repo:  
 ```bash
 git clone https://github.com/sgMohan18/Portfolio.git
+cd Portfolio
