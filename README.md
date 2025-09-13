@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Live Demo  
-🔗 [**View Portfolio**](https://navi-bus-7d6bb.web.app/)  
+🔗 [**View Portfolio**](https://sgmohan18.github.io/Portfolio/)  
 
 ---
 
